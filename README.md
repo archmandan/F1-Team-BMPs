@@ -61,9 +61,9 @@ Flashing a custom logo is super easy and doesn’t require downloading anything 
 | Team      | Preview                        |
 |-----------|--------------------------------|
 | F1 Logo   | ![F1](Previews/f1.png)         |
-| Ferrari   | ![Ferrari](Previews/ferrari.png) |
+| Ferrari   | ![Ferrari](Previews/ferrari.png)  |
 | Red Bull  | ![Red Bull](Previews/redbull.png) |
-| McLaren   | *(Coming soon)*                |
+| McLaren   | ![McLaren](Previews/mclaren.png)  |
 
 Preview images are located in the `Previews/` folder.  
 Note: actual splash screen output may vary slightly depending on LCD contrast.
