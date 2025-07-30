@@ -56,7 +56,7 @@ Flashing a custom logo is super easy and doesn’t require downloading anything 
 
 ---
 
-## 👀 Previews (Coming Soon)
+## 👀 Previews (More to come...)
 
 | Team      | Preview                        |
 |-----------|--------------------------------|
