@@ -62,7 +62,7 @@ Flashing a custom logo is super easy and doesn’t require downloading anything 
 |-----------|--------------------------------|
 | F1 Logo   | ![F1](Previews/f1.png)         |
 | Ferrari   | ![Ferrari](Previews/ferrari.png) |
-| Red Bull  | ![Red Bull](Previews/RedBull.png) |
+| Red Bull  | ![Red Bull](Previews/redbull.png) |
 | McLaren   | *(Coming soon)*                |
 
 Preview images are located in the `Previews/` folder.  
